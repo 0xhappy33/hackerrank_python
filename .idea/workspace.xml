@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e39f6760-ec08-4365-8a0c-03b9f4ca059b" name="Default" comment="" />
+    <list default="true" id="e39f6760-ec08-4365-8a0c-03b9f4ca059b" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/strings/READ_SPLIT_JOIN.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/strings/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/strings/ex1_swap_case.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/strings/ex2_split_and_join.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/strings/ex3_what_is_your_name.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/strings/ex4_mutations.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/strings/ex5_find_a_string.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,7 +21,12 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Python$turtle.coverage" NAME="turtle Coverage Results" MODIFIED="1513569499101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/turtles" />
+    <SUITE FILE_PATH="coverage/Python$ex1_swap_case.coverage" NAME="ex1_swap_case Coverage Results" MODIFIED="1513670110271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/strings" />
+    <SUITE FILE_PATH="coverage/Python$ex2_split_and_join.coverage" NAME="ex2_split_and_join Coverage Results" MODIFIED="1513743811597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/strings" />
     <SUITE FILE_PATH="coverage/Python$Vehicle.coverage" NAME="Vehicle Coverage Results" MODIFIED="1513415586917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/reviews" />
+    <SUITE FILE_PATH="coverage/Python$ex3_what_is_your_name.coverage" NAME="ex3_what_is_your_name Coverage Results" MODIFIED="1513744016173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/strings" />
+    <SUITE FILE_PATH="coverage/Python$ex5_find_a_string.coverage" NAME="ex5_find_a_string Coverage Results" MODIFIED="1513744757501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/strings" />
+    <SUITE FILE_PATH="coverage/Python$ex4_mutations.coverage" NAME="ex4_mutations Coverage Results" MODIFIED="1513744297057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/strings" />
     <SUITE FILE_PATH="coverage/Python$ex3_list_comprehensions.coverage" NAME="ex3_list_comprehensions Coverage Results" MODIFIED="1512441200128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic_data_type" />
     <SUITE FILE_PATH="coverage/Python$ex6_finding_the_percentage.coverage" NAME="ex6_finding_the_percentage Coverage Results" MODIFIED="1513668686845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic_data_type" />
     <SUITE FILE_PATH="coverage/Python$ex4_find_second_largest_number.coverage" NAME="ex4_find_second_largest_number Coverage Results" MODIFIED="1512441894805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic_data_type" />
@@ -25,12 +40,44 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ex6_finding_the_percentage.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/basic_data_type/ex6_finding_the_percentage.py">
+      <file leaf-file-name="ex3_what_is_your_name.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/strings/ex3_what_is_your_name.py">
+          <provider selected="true" editor-type-id="live-pycharm">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="30">
+                <caret line="1" column="4" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="68" />
+                <folding />
+              </first_editor>
+              <second_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ex4_mutations.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/strings/ex4_mutations.py">
           <provider selected="true" editor-type-id="live-pycharm">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="60">
-                <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+                <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ex5_find_a_string.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/strings/ex5_find_a_string.py">
+          <provider selected="true" editor-type-id="live-pycharm">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="90">
+                <caret line="3" column="67" lean-forward="true" selection-start-line="3" selection-start-column="67" selection-end-line="3" selection-end-column="67" />
                 <folding />
               </first_editor>
               <second_editor relative-caret-position="0">
@@ -73,6 +120,13 @@
         <option value="$PROJECT_DIR$/turtles/turtle.py" />
         <option value="$PROJECT_DIR$/basic_data_type/ex5_nested_list.py" />
         <option value="$PROJECT_DIR$/basic_data_type/ex6_finding_the_percentage.py" />
+        <option value="$PROJECT_DIR$/strings/ex1_swap_case.py" />
+        <option value="$PROJECT_DIR$/strings/READ_SPLIT_JOIN.txt" />
+        <option value="$PROJECT_DIR$/strings/ex2_.py" />
+        <option value="$PROJECT_DIR$/strings/ex2_split_and_join.py" />
+        <option value="$PROJECT_DIR$/strings/ex3_what_is_your_name.py" />
+        <option value="$PROJECT_DIR$/strings/ex4_mutations.py" />
+        <option value="$PROJECT_DIR$/strings/ex5_find_a_string.py" />
       </list>
     </option>
   </component>
@@ -134,7 +188,7 @@
             <path>
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="basic_data_type" type="462c0819:PsiDirectoryNode" />
+              <item name="strings" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -161,116 +215,116 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ex6_finding_the_percentage">
-    <configuration name="Vehicle" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.ex5_find_a_string">
+    <configuration name="ex1_swap_case" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/reviews" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/strings" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/reviews/Vehicle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/strings/ex1_swap_case.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="ex4_find_second_largest_number" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ex2_split_and_join" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic_data_type" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/strings" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic_data_type/ex4_find_second_largest_number.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/strings/ex2_split_and_join.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="ex5_nested_list" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ex3_what_is_your_name" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic_data_type" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/strings" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic_data_type/ex5_nested_list.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/strings/ex3_what_is_your_name.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="ex6_finding_the_percentage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ex4_mutations" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic_data_type" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/strings" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic_data_type/ex6_finding_the_percentage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/strings/ex4_mutations.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="turtle" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ex5_find_a_string" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/turtles" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/strings" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/turtles/turtle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/strings/ex5_find_a_string.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.ex4_find_second_largest_number" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Vehicle" />
-      <item index="2" class="java.lang.String" itemvalue="Python.turtle" />
-      <item index="3" class="java.lang.String" itemvalue="Python.ex5_nested_list" />
-      <item index="4" class="java.lang.String" itemvalue="Python.ex6_finding_the_percentage" />
+      <item index="0" class="java.lang.String" itemvalue="Python.ex1_swap_case" />
+      <item index="1" class="java.lang.String" itemvalue="Python.ex2_split_and_join" />
+      <item index="2" class="java.lang.String" itemvalue="Python.ex3_what_is_your_name" />
+      <item index="3" class="java.lang.String" itemvalue="Python.ex4_mutations" />
+      <item index="4" class="java.lang.String" itemvalue="Python.ex5_find_a_string" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.ex6_finding_the_percentage" />
-        <item index="1" class="java.lang.String" itemvalue="Python.ex5_nested_list" />
-        <item index="2" class="java.lang.String" itemvalue="Python.turtle" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Vehicle" />
-        <item index="4" class="java.lang.String" itemvalue="Python.ex4_find_second_largest_number" />
+        <item index="0" class="java.lang.String" itemvalue="Python.ex5_find_a_string" />
+        <item index="1" class="java.lang.String" itemvalue="Python.ex4_mutations" />
+        <item index="2" class="java.lang.String" itemvalue="Python.ex3_what_is_your_name" />
+        <item index="3" class="java.lang.String" itemvalue="Python.ex2_split_and_join" />
+        <item index="4" class="java.lang.String" itemvalue="Python.ex1_swap_case" />
       </list>
     </recent_temporary>
   </component>
@@ -292,7 +346,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -301,8 +354,8 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4849921" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3870458" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26399395" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38546604" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2677761" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -332,90 +385,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/introduction/ex2_if_else.py">
-      <provider selected="true" editor-type-id="live-pycharm">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic_data_type/ex4_find_second_largest_number.py">
-      <provider selected="true" editor-type-id="live-pycharm">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="60">
-            <caret line="2" column="53" lean-forward="false" selection-start-line="2" selection-start-column="53" selection-end-line="2" selection-end-column="53" />
-          </first_editor>
-          <second_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reviews/Vehicle.py">
-      <provider selected="true" editor-type-id="live-pycharm">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="720">
-            <caret line="24" column="18" lean-forward="false" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
-          </first_editor>
-          <second_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reviews/car.py">
-      <provider selected="true" editor-type-id="live-pycharm">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="180">
-            <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          </first_editor>
-          <second_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reviews/electricCar.py">
-      <provider selected="true" editor-type-id="live-pycharm">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="120">
-            <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-          </first_editor>
-          <second_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/introduction/ex2_if_else.py">
-      <provider selected="true" editor-type-id="live-pycharm">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic_data_type/ex2_tuples.py">
-      <provider selected="true" editor-type-id="live-pycharm">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/basic_data_type/ex4_find_second_largest_number.py">
       <provider selected="true" editor-type-id="live-pycharm">
         <state split_layout="FIRST">
@@ -829,11 +798,9 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="270">
             <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-            <folding />
           </first_editor>
           <second_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </second_editor>
         </state>
       </provider>
@@ -843,6 +810,51 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="30">
             <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+          </first_editor>
+          <second_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reviews/__init__.py">
+      <provider selected="true" editor-type-id="live-pycharm">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
+          <second_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_data_type/ex6_finding_the_percentage.py">
+      <provider selected="true" editor-type-id="live-pycharm">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+            <folding />
+          </first_editor>
+          <second_editor relative-caret-position="-60">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/strings/ex1_swap_case.py">
+      <provider selected="true" editor-type-id="live-pycharm">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="90">
+            <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor relative-caret-position="0">
@@ -852,7 +864,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/reviews/__init__.py">
+    <entry file="file://$PROJECT_DIR$/strings/ex2_.py">
       <provider selected="true" editor-type-id="live-pycharm">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="0">
@@ -866,19 +878,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/strings/READ_SPLIT_JOIN.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        <state relative-caret-position="180">
+          <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/basic_data_type/ex6_finding_the_percentage.py">
+    <entry file="file://$PROJECT_DIR$/strings/ex2_split_and_join.py">
+      <provider selected="true" editor-type-id="live-pycharm">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="30">
+            <caret line="1" column="4" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="36" />
+            <folding />
+          </first_editor>
+          <second_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/strings/ex3_what_is_your_name.py">
+      <provider selected="true" editor-type-id="live-pycharm">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="30">
+            <caret line="1" column="4" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="68" />
+            <folding />
+          </first_editor>
+          <second_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/strings/ex4_mutations.py">
       <provider selected="true" editor-type-id="live-pycharm">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="60">
-            <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+            <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/strings/ex5_find_a_string.py">
+      <provider selected="true" editor-type-id="live-pycharm">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="90">
+            <caret line="3" column="67" lean-forward="true" selection-start-line="3" selection-start-column="67" selection-end-line="3" selection-end-column="67" />
             <folding />
           </first_editor>
           <second_editor relative-caret-position="0">
